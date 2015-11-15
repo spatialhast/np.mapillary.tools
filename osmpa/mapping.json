@@ -8,7 +8,7 @@
             "fields": [
                 {
                     "type": "geometry",
-                    "name": "the_geom",
+                    "name": "geom",
                     "key": null
                 },               
 			    {
