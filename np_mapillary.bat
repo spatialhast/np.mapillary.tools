@@ -17,7 +17,7 @@ set PASSWORD=postgres
 set BBOX=44.28 52.43 40.34 21.97
 set MAXRESULTS=9999
 
-FOR %%u IN (alex7 algot alkarol andygol b108 baditaflorin cartolab cut dmbreaker durko_freemap edjone ghostishev gwin hast ikovaltaras imsamurai ivic4u jan_mapper maxim75 older prudenko sanjak serhijdubyk severyndubyk urbalazs velmyshanovnyi vsviridov wiktorn yamaxim yevgeniy8 zvid) do ( 
+FOR %%u IN (alex7 algot alkarol andygol b108 baditaflorin cartolab cut dmbreaker durko_freemap edjone ghostishev gwin hast ikovaltaras imsamurai ivic4u jan_mapper maxim75 older prudenko sanjak serge serhijdubyk severyndubyk urbalazs velmyshanovnyi vsviridov wiktorn yamaxim yevgeniy8 zvid) do ( 
 ::FOR %%u IN (hast prudenko severyndubyk) do (
 
 	rm -R _gpx

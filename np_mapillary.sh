@@ -24,7 +24,7 @@ MAXRESULTS=9999
 # Get JSON data from "total" key https://a.mapillary.com/v2/stats/toplist?client_id=WTlZaVBSWmxRX3dQODVTN2gxWVdGUTpkMjliZGQwZWI2MTgyMjk0&cname=ukraine&limit=100
 # Convert JSON to CSV http://konklone.io/json/
 
-for username in alex7 algot alkarol andygol b108 baditaflorin cartolab cut dmbreaker durko_freemap edjone ghostishev gwin hast ikovaltaras imsamurai ivic4u jan_mapper maxim75 older prudenko sanjak serhijdubyk severyndubyk urbalazs velmyshanovnyi vsviridov wiktorn yamaxim yevgeniy8 zvid
+for username in alex7 algot alkarol andygol b108 baditaflorin cartolab cut dmbreaker durko_freemap edjone ghostishev gwin hast ikovaltaras imsamurai ivic4u jan_mapper maxim75 older prudenko sanjak serge serhijdubyk severyndubyk urbalazs velmyshanovnyi vsviridov wiktorn yamaxim yevgeniy8 zvid
 #for username in hast prudenko severyndubyk
 do
 	MAPILLARYUSER=$username
